@@ -7,6 +7,10 @@ import codecs
 import pandas as pd
 from numpy import *
 
+"""
+Build a sentiment dictionary and calculate the sentiment value of film review text
+"""
+
 jieba.setLogLevel(jieba.logging.INFO)
 
 stopwords = set()
