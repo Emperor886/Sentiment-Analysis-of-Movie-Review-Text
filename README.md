@@ -1,1 +1,1 @@
-# Sentiment-Analysis-of-Movie-Review-Text
+# Text-Analysis-of-Movie-Reviews
