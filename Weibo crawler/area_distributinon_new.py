@@ -5,6 +5,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
+"""
+Draw a regional heat map
+"""
+
 plt.style.use('ggplot')
 plt.rcParams['font.sans-serif'] = ['kaiti']
 
